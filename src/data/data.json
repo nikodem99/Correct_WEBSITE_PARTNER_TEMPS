@@ -1,66 +1,66 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "PARTNER TEMPS",
+    "paragraph": "Jesteśmy doświadczoną i dynamicznie rozwijającą się Agencją Pracy Tymczasowej, wyspecjalizowaną w zakresie doradztwa, selekcji i rekrutacji kadry pracowniczej zarówno z Polski jak i z zagranicy."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Jesteśmy doświadczoną i dynamicznie rozwijającą się Agencją Pracy Tymczasowej, wyspecjalizowaną w zakresie doradztwa, selekcji i rekrutacji kadry pracowniczej zarówno z Polski jak i z zagranicy.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Kucharze",
+      "Ślusarze",
+      "Spawacze",
+      "Robotnicy"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Szwaczki",
+      "Elektrotechnicy",
+      "Specjaliści IT",
+      "Wielu innych"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Legalizacja",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Oferty pracy",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Kadry i płace",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Outsorcing",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Praca Holandia",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "O pracodawcy",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Strefa pracownika",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Dla biznesu",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Fundacja",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Legalizacja pobytu",
+      "text": "Nie wiesz jak wygląda od strony urzędowej zalegalizowanie twojego pobytu? Z pomocą naszej firmy uzyskasz skuteczne wsparcie w tym zakresie."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Znalezienie miejsca zamieszkania",
+      "text": "Nie wiesz od czego zacząć szukając nowego miejsca zamieszkania? Nasza firma pomoze znalezc dobre warunki za rozsądną cenę"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Rozpoczęcie pracy na rynku polskim",
+      "text": "Nie wiesz jakimi prawami rządzi się rynek Polski oraz jak zachować się w nowym miejscu pracy? Parnter Temps płynnie wdrozy Cię w nową pracę."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Nauka języka Polskiego",
+      "text": "Przyjechałeś do Polski i nie wiesz gdzie i jak nauczyć się rozmawiać po polsku? Nasza agencja znajdzie zajecia odpowiednio dopasowane do Twojego czasu."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Poznanie Polskiej kultury",
+      "text": "Nie wiesz czym charakteryzuje się Polska kultura oraz jak wyglądają nasze tradycje? Nie wiesz jakie zasady panują w polskich miejscach pracy? Pokazemy Ci naszą Polskę z każdej strony."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Wsparcie naszych koordynatorów",
+      "text": "Dzięki naszej doświadczonej kadrze szybko adaptujemy nowych członków zespołu. Nasi pracownicy mówią w wielu językach, więc zawsze można liczyć na ich wsparcie."
     }
   ],
   "Testimonials": [
@@ -132,23 +132,23 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Karolina Wasiewicz",
+      "job": "Współwłaściciel"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Renata Graczyk",
+      "job": "Współwłaściciel"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Magdalena Szczęsna",
+      "job": "Współwłaściciel"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Marta Naulewicz",
+      "job": "Office Manager"
     }
   ],
   "Contact": {
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Doświadczenie",
+      "text": "Od ponad 12 lat świadczymy nasze usługi dla firm krajowych oraz międzynarodowych."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Międzynarodowe działania",
+      "text": "Posiadamy przedstawicielstwa w Ukrainie, Białorusi, Rumunii, Indiach, Nepalu, Dubaju, Hong Kongu i na Tajwanie."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Kompleksowa obsługa",
+      "text": "Oferujemy pełen zakres obsługi w zakresie pozyskiwania kadry pracowniczej."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Gwarancja",
+      "text": "Nasza oferta w pełni dostosowana jest do potrzeb rynku i uwarunkowań prawnych oraz organizacyjnych."
     }
   ]
 }
